@@ -1,2 +1,0 @@
-# maven-example
-maven-example
